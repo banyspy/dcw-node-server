@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git@gitlab.psu.ac.th:6110110320/dcw-node-server.git"
   },
-  "author": "",
+  "author": "Pisit akarateerapisal",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.2"
